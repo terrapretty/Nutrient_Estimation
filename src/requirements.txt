@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+tqdm
+spectral
+opencv-python
+torch
+pytorch-lightning
+wandb

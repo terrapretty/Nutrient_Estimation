@@ -1,0 +1,6 @@
+README.md
+setup.py
+nutrient_estimation.egg-info/PKG-INFO
+nutrient_estimation.egg-info/SOURCES.txt
+nutrient_estimation.egg-info/dependency_links.txt
+nutrient_estimation.egg-info/top_level.txt
