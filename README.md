@@ -11,8 +11,6 @@ This repository contains code for estimating nutrient concentrations from hypers
   - [Training the Model](#training-the-model)
   - [Evaluating the Model](#evaluating-the-model)
 - [Workflow](#workflow)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
